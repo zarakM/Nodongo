@@ -1,0 +1,22 @@
+{
+  "name": "nodongo",
+  "version": "1.0.0",
+  "description": "Crud application using mongoDB as a databse with Express Server on top of Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarakM/Nodongo.git"
+  },
+  "keywords": [
+    "nodefirst"
+  ],
+  "author": "zarak mughal",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zarakM/Nodongo/issues"
+  },
+  "homepage": "https://github.com/zarakM/Nodongo#readme"
+}
