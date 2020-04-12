@@ -4,7 +4,8 @@
   "description": "Crud application using mongoDB as a databse with Express Server on top of Nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/zarakM/Nodongo/issues"
   },
-  "homepage": "https://github.com/zarakM/Nodongo#readme"
+  "homepage": "https://github.com/zarakM/Nodongo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
